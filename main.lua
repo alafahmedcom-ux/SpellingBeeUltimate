@@ -5,7 +5,7 @@
 -- =============================================
 -- LOAD RAYFIELD UI
 -- =============================================
-local Rayfield = loadstring(game:HttpGet('loadstring(game:HttpGet('https://sirius.menu/rayfield'))()'))()
+local Rayfield = loadstring(game:HttpGet('loadstring(game:HttpGet('https://docs.sirius.menu/rayfield'))()'))()
 
 -- =============================================
 -- COMPLETE WORD DATABASE
